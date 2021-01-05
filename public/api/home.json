@@ -1,0 +1,63 @@
+{
+	"success": true,
+	"data": {
+		"articleList": [{
+			"id": 1,
+			"title": "博林赚法：如何在网上赚钱",
+			"desc": "分享一个操作闲鱼店群项目,月产出3000+个人兼职操作20家放大化操作 本篇文章分享的内容有两个： 一 闲鱼实操技巧，兼职状态下如何干到单店月利...",
+      "imgUrl": "http://upload-images.jianshu.io/upload_images/2259045-2986b9be86b01f63?imageMogr2/auto-orient/strip|imageView2/1/w/300/h/240",
+      "diamonds":3.7,
+      "author":"博林每天说赚钱",
+      "commentNum":20,
+      "like":147,
+      "reward":0
+		}, {
+			"id": 2,
+			"title": "坚持写作一年，自己得到了什么",
+			"desc": "第一次拿稿费，是今年的三月。 那个时候，距离我在简书上写文章，至少也有一年了。 现在有一年半的时间，大概也有二三十万字的废话。 哪怕是十月初注册注册...",
+      "imgUrl": "http://upload-images.jianshu.io/upload_images/2259045-2986b9be86b01f63?imageMogr2/auto-orient/strip|imageView2/1/w/300/h/240",
+      "diamonds":12.7,
+      "author":"公元1821",
+      "commentNum":64,
+      "like":335,
+      "reward":1
+		}, {
+			"id": 3,
+			"title": "今年我读了四个开源项目的源码，来分享下心得",
+			"desc": "Hola，我是 yes。 今年来看了 RocketMQ、Kafka、Dubbo 、Tomcat 的源码，之前也有读者询问过如何读源码，索性就来分...",
+      "imgUrl": "http://upload-images.jianshu.io/upload_images/2259045-2986b9be86b01f63?imageMogr2/auto-orient/strip|imageView2/1/w/300/h/240",
+      "diamonds":2.6,
+      "author":"yes的练级攻略",
+      "commentNum":13,
+      "like":114,
+      "reward":1
+		}, {
+			"id": 4,
+			"title": "第一次过稿",
+			"desc": "第一次过稿，高兴坏了。笔下的文字转换成价值600元人民币的旅行包，着实激动了好一阵。 自从投稿之日起，我的心一直没有落下，天天盼望着征文...",
+      "imgUrl": "http://upload-images.jianshu.io/upload_images/2259045-2986b9be86b01f63?imageMogr2/auto-orient/strip|imageView2/1/w/300/h/240",
+      "diamonds":53.3,
+      "author":"莦莦_",
+      "commentNum":242,
+      "like":1363,
+      "reward":1
+		}, {
+			"id": 5,
+			"title": "请记住杨绛先生的这4句话（深度文字）",
+			"desc": "人的一生是一场漫长而坎坷的旅程，多去汲取别人人生的经验，我们在路途上就能少走些弯路，受益终生。 杨绛先生的这4句话，字字都是珠玑，读懂了它们，就...",
+      "imgUrl": "http://upload-images.jianshu.io/upload_images/2259045-2986b9be86b01f63?imageMogr2/auto-orient/strip|imageView2/1/w/300/h/240",
+      "diamonds":33.5,
+      "author":"林海寻音",
+      "commentNum":75,
+      "like":1069,
+      "reward":0
+		}],
+		"recommendList": [{
+			"id": 1,
+			"imgUrl": "http://cdn2.jianshu.io/assets/web/banner-s-3-7123fd94750759acf7eca05b871e9d17.png"
+		}, {
+			"id": 2,
+			"imgUrl": "http://cdn2.jianshu.io/assets/web/banner-s-5-4ba25cf5041931a0ed2062828b4064cb.png"
+		}]
+	}
+}

@@ -1,0 +1,2 @@
+export const CHANGE_HOME_DATA = 'home/CHANGE_HOME_DATA'
+export const CHANGE_WRITER_DATA = 'home/CHANGE_WRITER_DATA'
